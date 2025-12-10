@@ -297,4 +297,4 @@ export const MATERIALS: Material[] = [
   }
 ];
 
-export const KIWIFY_CHECKOUT_URL = 'https://pay.kiwify.com.br/SEU_LINK_AQUI';
+export const KIWIFY_CHECKOUT_URL = https://pay.kiwify.com.br/SoriU9c
