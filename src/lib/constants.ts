@@ -298,7 +298,7 @@ export const MATERIALS: Material[] = [
 ];
 
 // Configuração de pagamentos
-export const KIWIFY_CHECKOUT_URL = 'https://pay.kiwify.com.br/SEU_LINK_AQUI';
+export const KIWIFY_CHECKOUT_URL = 'https://pay.kiwify.com.br/SoriU9c';
 
 // Configuração PayPal
 export const PAYPAL_CLIENT_ID = 'AUJpoz8QmpsGmuIkJH-x1_OhdrcWemOyV16EG0QfyamIZXGoNQohkCBLtjp8AZrS3pQg0NsAJ_TbbURf';
